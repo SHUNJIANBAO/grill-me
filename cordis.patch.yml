@@ -1,0 +1,6 @@
+# dsh-grill-me-toggle bundle patch: 挂载「追问」开关按钮的 client 插件。
+# 在 @deepseek-ai/dsh-base 之后应用；client 半边在 conversation.input.right
+# 上落一个按钮（排在「识图」按钮左边）。
+- insert:
+    - id: grill-me-toggle
+      name: 'dsh-grill-me-toggle'

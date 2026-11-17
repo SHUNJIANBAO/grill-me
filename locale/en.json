@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Grill Me Toggle",
+    "description": "A \"Grill me\" toggle beside the composer: turns on by placing /grill-me into the draft, turns off by removing it. Never duplicates the token and never sends for you."
+  }
+}
