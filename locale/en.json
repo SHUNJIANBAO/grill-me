@@ -1,6 +1,6 @@
 {
   "meta": {
     "title": "Grill Me Toggle",
-    "description": "A \"Grill me\" toggle beside the composer: turns on by placing /grill-me into the draft, turns off by removing it. Never duplicates the token and never sends for you."
+    "description": "A \"Grill me\" toggle beside the composer: adds /grill-me to the draft when enabled and removes it when disabled. Backspace/Delete inside the prefix removes the full command and its separator in one press; it never duplicates the token or sends for you."
   }
 }

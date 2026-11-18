@@ -1,8 +1,8 @@
 {
   "name": "dsh-grill-me-toggle",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
-  "description": "输入框旁的「追问」开关按钮：开启时把 /grill-me 放进草稿，关闭时摘掉，不重复添加，也绝不替你发送。",
+  "description": "输入框旁的「追问」开关：开启时把 /grill-me 放进草稿，关闭时摘掉；在指令内按一次 Backspace/Delete 可整体移除，不重复添加，也绝不替你发送。",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
